@@ -44,8 +44,3 @@ This project is a transaction intelligence system designed to simulate real-worl
 - Fraud scoring model using machine learning  
 - API layer for live analytics (FastAPI)  
 - Automated alerting system for anomalies  
-
----
-
-## 👤 Author
-Data Engineer | Fintech Analytics Enthusiast
