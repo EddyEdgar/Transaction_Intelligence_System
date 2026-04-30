@@ -1,5 +1,5 @@
 # Fintech Transaction Intelligence System
-
+![Uploading Transaction_Inttelligence.png…]()
 
 ## Overview
 This project is a transaction intelligence system designed to simulate real-world fintech analytics. It focuses on understanding revenue performance, payment failures, and customer behavior using SQL and Python.
